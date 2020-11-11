@@ -1,0 +1,13 @@
+C:\Users\GET\source\repos\simpleArv\simpleArv\bin\Debug\netcoreapp3.1\simpleArv.exe
+C:\Users\GET\source\repos\simpleArv\simpleArv\bin\Debug\netcoreapp3.1\simpleArv.deps.json
+C:\Users\GET\source\repos\simpleArv\simpleArv\bin\Debug\netcoreapp3.1\simpleArv.runtimeconfig.json
+C:\Users\GET\source\repos\simpleArv\simpleArv\bin\Debug\netcoreapp3.1\simpleArv.runtimeconfig.dev.json
+C:\Users\GET\source\repos\simpleArv\simpleArv\bin\Debug\netcoreapp3.1\simpleArv.dll
+C:\Users\GET\source\repos\simpleArv\simpleArv\bin\Debug\netcoreapp3.1\simpleArv.pdb
+C:\Users\GET\source\repos\simpleArv\simpleArv\obj\Debug\netcoreapp3.1\simpleArv.csprojAssemblyReference.cache
+C:\Users\GET\source\repos\simpleArv\simpleArv\obj\Debug\netcoreapp3.1\simpleArv.AssemblyInfoInputs.cache
+C:\Users\GET\source\repos\simpleArv\simpleArv\obj\Debug\netcoreapp3.1\simpleArv.AssemblyInfo.cs
+C:\Users\GET\source\repos\simpleArv\simpleArv\obj\Debug\netcoreapp3.1\simpleArv.csproj.CoreCompileInputs.cache
+C:\Users\GET\source\repos\simpleArv\simpleArv\obj\Debug\netcoreapp3.1\simpleArv.dll
+C:\Users\GET\source\repos\simpleArv\simpleArv\obj\Debug\netcoreapp3.1\simpleArv.pdb
+C:\Users\GET\source\repos\simpleArv\simpleArv\obj\Debug\netcoreapp3.1\simpleArv.genruntimeconfig.cache
